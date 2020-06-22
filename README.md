@@ -18,7 +18,7 @@ Let's code and move our bodies together!!
 
 ### PoseNet on ml5.js
 - [ml5.js](https://ml5js.org/) provides access to machine learning algorithms and models in the browser, building on top of TensorFlow.js with no other external dependencies.
-- [PosetNet on ml5.js](https://learn.ml5js.org/docs/#/reference/posenet), which allows you to use PoseNet on p5.js
+- [PoseNet on ml5.js](https://learn.ml5js.org/docs/#/reference/posenet), which allows you to use PoseNet on p5.js
 
 ### !!!
 - Critical approaches toward training data in machine learning (important to be mindful of the bias algorithm in AI)
