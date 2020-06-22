@@ -10,3 +10,12 @@ You'll learn how to read poses with a webcam, in other words, how to analyze and
 You'll walk away with your own workout buddy (an interactive system lives on your laptop) who cheers you and gives you fun rewards when you workout.
 Let's code and move our bodies together!!
 
+## Workshop Notes
+
+### PoseNet
+- [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet) is a machine learning model that allows for Real-time Human Pose Estimation.
+- [A high-level description of PoseNet running on Tensorflow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5) by Dan Oved
+
+### PoseNet on ml5.js
+- [ml5.js](https://ml5js.org/) provides access to machine learning algorithms and models in the browser, building on top of TensorFlow.js with no other external dependencies.
+- [PosetNet on ml5.js](https://learn.ml5js.org/docs/#/reference/posenet), which allows you to use PoseNet on p5.js
