@@ -1,7 +1,7 @@
 # your-workout-buddy
 A repo for my workshop *Your Workout Buddy: PoseNet with ml5.js and p5.js* at the ITP Camp 2020
 
-##Workshop Description
+## Workshop Description
 
 [Workshop Description on the ITP Camp 2020 website](https://itp.nyu.edu/camp2020/session/109)
 
