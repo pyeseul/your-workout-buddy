@@ -19,3 +19,12 @@ Let's code and move our bodies together!!
 ### PoseNet on ml5.js
 - [ml5.js](https://ml5js.org/) provides access to machine learning algorithms and models in the browser, building on top of TensorFlow.js with no other external dependencies.
 - [PosetNet on ml5.js](https://learn.ml5js.org/docs/#/reference/posenet), which allows you to use PoseNet on p5.js
+
+### !
+- Critical Approaches Toward the Training Data in Machine Learning (Important to be mindful of the bias algorithm in AI)
+  - Sam Lavigne’s [Training Poses](https://lav.io/projects/training-poses/), [Training Poses (Installation)](https://lav.io/projects/training-poses-installation/)
+  - [Yes, artificial intelligence can be racist](https://www.vox.com/science-and-health/2019/1/23/18194717/alexandria-ocasio-cortez-ai-bias)
+  - [More articles on this from MIT’s Technology Review](https://www.dropbox.com/sh/bqr625b6lk3mcww/AABcpZfnoSBRii65suri5kq4a?dl=0)
+  
+
+More articles on this from MIT’s Technology Review
