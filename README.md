@@ -28,5 +28,5 @@ Let's code and move our bodies together!!
   
 ### Class Examples
 - Example 1: Let's wear a mask first
-- Example 2: Tracking Squat by finding patterns
-- Example 3: Tracking Squat with Teachable Machine
+- Example 2: Tracking squat by finding patterns
+- Example 3: Classifying poses with [Teachable Machine](https://teachablemachine.withgoogle.com/)
