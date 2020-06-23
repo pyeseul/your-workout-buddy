@@ -1,5 +1,5 @@
 /*
-ITP Camp 2020
+ITP Camp 2020: Your Workout Buddy workshop by Yeseul Song
 Wear a Mask: the sketch detects a person's face, find ears, and put a yellow mask on their face
 ml5 PoseNet https://ml5js.org/reference/api-PoseNet/
 */
