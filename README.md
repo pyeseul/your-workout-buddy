@@ -30,3 +30,10 @@ Let's code and move our bodies together!!
 - Example 1: Let's wear a mask first
 - Example 2: Tracking squat by finding patterns
 - Example 3: Classifying poses with [Teachable Machine](https://teachablemachine.withgoogle.com/)
+
+### Other machine-learning based computer vision libraries
+- [Face-APi](https://learn.ml5js.org/docs/#/reference/face-api)
+- [DeepLabCut](https://www.mousemotorlab.org/deeplabcut) with Python
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+- [Wikinator](http://www.wekinator.org/videos/)
+- [Face and hand tracking](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html?linkId=83996111)
